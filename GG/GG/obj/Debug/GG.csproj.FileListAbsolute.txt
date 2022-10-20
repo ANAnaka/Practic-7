@@ -1,0 +1,16 @@
+C:\Users\annak\source\repos\GG\GG\bin\Debug\GG.exe.config
+C:\Users\annak\source\repos\GG\GG\bin\Debug\GG.exe
+C:\Users\annak\source\repos\GG\GG\bin\Debug\GG.pdb
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\GG\GG\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\GG\GG\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG_MarkupCompile.cache
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG_MarkupCompile.lref
+C:\Users\annak\source\repos\GG\GG\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.g.resources
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.Properties.Resources.resources
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.exe
+C:\Users\annak\source\repos\GG\GG\obj\Debug\GG.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="BiliJin.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BiliJin"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="900" Width="1280">
+    <Grid>
+
+        <ListView Name="GGLv">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Id Продукта" DisplayMemberBinding="{Binding IdProduct}"/>
+                    <GridViewColumn Header="Id Продукта" DisplayMemberBinding="{Binding Name}"/>
+                    <GridViewColumn Header="Id Продукта" DisplayMemberBinding="{Binding Cost}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+    </Grid>
+</Window>

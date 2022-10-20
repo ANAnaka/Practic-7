@@ -1,0 +1,16 @@
+C:\Users\annak\source\repos\BiliJin\BiliJin\bin\Debug\BiliJin.exe.config
+C:\Users\annak\source\repos\BiliJin\BiliJin\bin\Debug\BiliJin.exe
+C:\Users\annak\source\repos\BiliJin\BiliJin\bin\Debug\BiliJin.pdb
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin_MarkupCompile.cache
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin_MarkupCompile.lref
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.g.resources
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.Properties.Resources.resources
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.exe
+C:\Users\annak\source\repos\BiliJin\BiliJin\obj\Debug\BiliJin.pdb
