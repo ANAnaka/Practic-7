@@ -1,0 +1,15 @@
+C:\Users\annak\source\repos\Практическая работа №10\bin\Debug\net6.0\Практическая работа №10.exe
+C:\Users\annak\source\repos\Практическая работа №10\bin\Debug\net6.0\Практическая работа №10.deps.json
+C:\Users\annak\source\repos\Практическая работа №10\bin\Debug\net6.0\Практическая работа №10.runtimeconfig.json
+C:\Users\annak\source\repos\Практическая работа №10\bin\Debug\net6.0\Практическая работа №10.dll
+C:\Users\annak\source\repos\Практическая работа №10\bin\Debug\net6.0\Практическая работа №10.pdb
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.AssemblyInfoInputs.cache
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.AssemblyInfo.cs
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.dll
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\refint\Практическая работа №10.dll
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.pdb
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\Практическая работа №10.genruntimeconfig.cache
+C:\Users\annak\source\repos\Практическая работа №10\obj\Debug\net6.0\ref\Практическая работа №10.dll

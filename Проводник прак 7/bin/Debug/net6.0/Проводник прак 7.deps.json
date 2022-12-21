@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Проводник прак 7/1.0.0": {
+        "runtime": {
+          "Проводник прак 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Проводник прак 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
